@@ -1,5 +1,4 @@
 // src/App.tsx
-import React from "react";
 import { HeaderBar } from "./components/HeaderBar";
 import { PoseMenu } from "./components/PoseMenu";
 import { SwapButtons } from "./components/SwapButtons";
